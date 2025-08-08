@@ -1,0 +1,5 @@
+T-shirt demand corresponding to a can be fulfilled by all the three types, x,y,z.
+T-shirt demand corresponding to b can be fulfilled by two types, y,z.
+T-shirt demand corresponding to a can be fulfilled by only z.
+
+loop is implemented to iteratively decrease the value until it gets finished and move n to the next available option.
